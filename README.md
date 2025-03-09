@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I'm Rob!
 
-<!--
-**skizzell/skizzell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web3 Growth Strategist & Digital Marketing Leader** passionate about **crypto adoption, NFT ecosystems, and community building**. With over 15 years of experience in **growth marketing, automation, and blockchain strategy**, I've helped scale projects and connect innovators in the space.
 
-Here are some ideas to get you started:
+🔹 **Early adopter & founding member** of PROOF Collective & Skylab  
+🔹 **Built & led** NFT/DeFi community growth strategies  
+🔹 **Specialized in** Web3 marketing, analytics, and engagement  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **Current Focus**
+- NFT & DeFi Growth Strategies
+- Crypto Community Building
+- Blockchain Partnerships & Ecosystem Development
+
+### 🔗 **Let's Connect**
+📍 [LinkedIn](https://linkedin.com/in/riula) | 📍 [Twitter/X](https://x.com/skell) | 🌐 [Website](https://robiu.la)
+
+---
